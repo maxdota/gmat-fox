@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gmat-fox/static/css/main.69077470.css",
-    "main.js": "/gmat-fox/static/js/main.c755ff5e.js",
+    "main.js": "/gmat-fox/static/js/main.f7262cf5.js",
     "static/js/206.2f32aba8.chunk.js": "/gmat-fox/static/js/206.2f32aba8.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/gmat-fox/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/gmat-fox/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.69077470.css",
-    "static/js/main.c755ff5e.js"
+    "static/js/main.f7262cf5.js"
   ]
 }
